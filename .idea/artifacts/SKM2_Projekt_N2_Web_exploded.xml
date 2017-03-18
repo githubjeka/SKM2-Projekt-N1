@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SKM2-Projekt-N2:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SKM2_Projekt_N2_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SKM2-Projekt-N2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SKM2-Projekt-N2" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
